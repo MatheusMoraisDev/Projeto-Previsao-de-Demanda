@@ -1,4 +1,4 @@
-# Projeto-Previsao-de-Demanda
+# Projeto Previsão de Demanda #Frexco
 
 ## Descrição do projeto 
 Este é um código Python que realiza previsões de séries temporais de vendas utilizando o pacote PyCaret. O código importa o pacote Pandas para lidar com os dados, o pacote PyCaret para realizar as previsões e o Win32COM para enviar um e-mail com os resultados.
